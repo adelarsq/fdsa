@@ -7,3 +7,4 @@ Work in progress...
 ## Acknowledgments
 
 - [asdf](https://asdf-vm.com)
+- [mason](https://github.com/williamboman/mason.nvim)
